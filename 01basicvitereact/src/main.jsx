@@ -4,6 +4,7 @@ import React from 'react'
 import App from './App.jsx'
 
 // First letter should be CAPITAL
+// eslint-disable-next-line react-refresh/only-export-components
 function MyApp(){
   return(
     <h1>Hello world from MyApp function in main.jsx</h1>
