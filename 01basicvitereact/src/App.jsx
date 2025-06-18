@@ -1,7 +1,8 @@
 function App() {
-
+  const username = "Shorya Sethia"
+  
   return (
-    <h1>Hello World in Vite | Shorya Sethia</h1>
+    <h1>Hello World in Vite | {username} </h1>
   )
 }
 
