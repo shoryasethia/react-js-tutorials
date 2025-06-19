@@ -4,6 +4,7 @@
   ],
   "hints": {
     "compat-api/html": "off",
-    "manifest-file-extension": "off"
+    "manifest-file-extension": "off",
+    "no-inline-styles": "off"
   }
 }
