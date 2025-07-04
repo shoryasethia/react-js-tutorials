@@ -1,4 +1,4 @@
-# 🧠 Redux Toolkit Basics (with your Code)
+# 🧠 Redux Toolkit Basics
 
 ### 🔹 What is a `slice`?
 
